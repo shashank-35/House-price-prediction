@@ -3,12 +3,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=statuspage" alt="Status">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version">
+  <a href="https://house-price-prediction-by-shashank.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
 </p>
 
 <p align="center">
   <strong>Transforming Real Estate Data into Premium Financial Insights.</strong><br>
-  An intelligent, fintech-inspired dashboard for accurate house price valuations and investment analysis.
+  An intelligent, fintech-inspired dashboard for accurate house price valuations and investment analysis.<br>
+  🚀 <strong>Explore Live:</strong> <a href="https://house-price-prediction-by-shashank.streamlit.app/">house-price-prediction-by-shashank.streamlit.app</a>
 </p>
 
 ---
